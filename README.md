@@ -1,4 +1,4 @@
-# As a Loan Default Prediction Model
+# Loan Default Prediction Model
 
 ## Project Overview
 
